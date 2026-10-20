@@ -29,7 +29,22 @@ One thing that this project does well is including examples and explanations of 
 ---
 
 ## Repository 2
-(repeat same format)
+**Repository Name:**  into-r-spatial-analysis
+**Link:**  https://github.com/nickbearman/intro-r-spatial-analysis
+### Purpose
+This project aims to provide an introduction to spatial analysis in R. It contains files showing how to download and manipulate data using R, as well as how to create final maps for export. 
+
+### Repository Structure
+One file that stood out to me is the glossary. It has a list of terms that are used in the course and definitions for each of the terms. I also noticed that there are many script examples and output examples so that you can see what the final maps look like. 
+
+### Documentation
+I found the README for this project to be somewhat helpful. It contains the basic information about what the project is and where to find more details. I personally thought it could include a little more information about how you can apply what is learned in the course and what the contribution criteria are.  
+
+### Activity
+This repository appears to be updated fairly regularly. There are regular updates over the course of the last year. 
+
+### Key Observation
+Something that I think this project does well is including both the scripts and the output from the scripts so that anyone doing the course understands what the information can be used to create. I also think it does a good job of providing regular updates with a clear statement about when to expect updates and when the last update occured. 
 
 ## Repository 3
 
