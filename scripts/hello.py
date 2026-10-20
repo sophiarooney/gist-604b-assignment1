@@ -18,5 +18,7 @@ def main():
     # Add your own message here!
     print("[I am interested in using GIS to inform conservation management.]")
 
+    print('Updated in Codespaces')
+
 if __name__ == "__main__":
     main()
