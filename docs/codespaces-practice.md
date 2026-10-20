@@ -15,4 +15,5 @@
 Explain in 2–3 sentences the difference between:
 - Local workspace (Codespace)
 - Remote repository (GitHub.com)
+
 [The GitHub repository is the location where your code is stored. The Codespace is a cloud-based environment where you edit and run the code before pushing it back to the repository, where it will be stored.]
