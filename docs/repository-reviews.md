@@ -82,6 +82,7 @@ All of the activity in this repository is from 5 months ago. It looks like that 
 
 ### Key Observation
 The thing that stood out to me about this repository was the organization. I liked how well laid out everything was, and the naming was intuitive and easy to follow. It also contains all of the data and final maps which are helpful to look at to see the final output of the project. 
+
 ---
 
 ## Reflection
