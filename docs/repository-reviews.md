@@ -47,11 +47,43 @@ This repository appears to be updated fairly regularly. There are regular update
 Something that I think this project does well is including both the scripts and the output from the scripts so that anyone doing the course understands what the information can be used to create. I also think it does a good job of providing regular updates with a clear statement about when to expect updates and when the last update occured. 
 
 ## Repository 3
+**Repository Name:**  crop-stage-detection
+**Link:**  https://github.com/nasaharvest/crop-stage-detection
+### Purpose
+This project creates a model that can detect crop stage from an NDVI time series. 
+
+### Repository Structure
+One folder that stood out to me was the examples folder. I appreciate that there is a thorough example provided so that it is easy to understand what this project does. The structure of the repository overall is organized and most of the file names are easy to understand. 
+
+### Documentation
+The README for this project was informative. It contains some background information about what this project does and hwo it works. It also contains examples, the license information, and citations which are helpful to know for anyone looking at this project. 
+
+### Activity
+Most of the activity in this repository is from 2-3 months ago. There is no information about whether or not it will be updated regularly. 
+
+### Key Observation
+Something that this project does well is including background information and an explanation of how this project can be useful even compared to other similar projects. I also like that it gives clear definitions for the outcomes of the analysis. 
 
 ## Repository 4
+**Repository Name:** sackville-watershed-mapping
+**Link:**  https://github.com/vinura-amarasinghe/sackville-watershed-mapping
 
+### Purpose
+This repository is a portfolio examining land cover and development in the Sackville river watershed. It aims to create maps that illustrate what the Sackville river watershed looks like and where it faces the most pressure from development. 
+
+### Repository Structure
+I really like the structure and organization of this repository. In the README there is a list of "what's in this repo" with a short description of each folder. The folders are well organized and easy to understand. 
+
+### Documentation
+I liked the README for this repository. It contains clear headings and detailed information about the data, methods, and findings of this project. The project is clearly explained from start to finsih. It also contains licensing information.
+
+### Activity
+All of the activity in this repository is from 5 months ago. It looks like that is when the first commit occured and it has not been updated since. 
+
+### Key Observation
+The thing that stood out to me about this repository was the organization. I liked how well laid out everything was, and the naming was intuitive and easy to follow. It also contains all of the data and final maps which are helpful to look at to see the final output of the project. 
 ---
 
 ## Reflection
 
-In 3–5 sentences, explain what you learned about how open source projects are organized.
+Through this exercise, I learned that open source projects can be organized in different ways, but some conventions seem to apply across most projects. All of the examples I chose are fairly robust and have standard files like a README, but I did also see some repositories that just contained a few folders without a README or clear naming conventions which were very hard to understand. I learned that organization and clear documentation is very important in ensuring that your project is understandable and useful for others. 
